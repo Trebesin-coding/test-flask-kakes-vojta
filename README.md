@@ -1,6 +1,6 @@
 # Test: Flask, JSON
 
-nevšímejte sisouboru result.html, psal jsem ho ve své nejtěžší chvíli - Vojta
+nevšímejte si souboru result.html, psal jsem ho ve své nejtěžší chvíli - Vojta
 
 ## Flask
 
