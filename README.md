@@ -1,5 +1,7 @@
 # Test: Flask, JSON
 
+nevšímejte sisouboru result.html, psal jsem ho ve své nejtěžší chvíli - Vojta
+
 ## Flask
 
 1.  zajisti, ať se vitej.html načítá jako první (defaultní) stránka webového serveru
@@ -13,3 +15,4 @@
 ## JSON
 
 8.  data z formuláře ulož také do JSON recenze.json ve složce data
+
