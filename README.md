@@ -16,3 +16,21 @@ nevšímejte si souboru result.html, psal jsem ho ve své nejtěžší chvíli -
 
 8.  data z formuláře ulož také do JSON recenze.json ve složce data
 
+# Hodnocení
+
+✅
+
+✅
+
+🚩chybí uzavření formuláře
+
+✅
+
+✅
+
+❌
+
+🚩 data musí být pod podmínkou kontrolující, že login a recenze existují
+
+
+## Známka: 1-
